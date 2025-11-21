@@ -107,6 +107,10 @@
           &nbsp;&nbsp;
           <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
           <br><br>
+          <img width="40" height="40" alt="php" src="https://github.com/user-attachments/assets/cc8b86d3-6075-428c-971e-c4c38cd92983" />
+          &nbsp;&nbsp;
+          <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/48b73076-a50c-4d75-8b69-d0c69b79ba8c" />
+          <br><br>
           <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
           &nbsp;&nbsp;
           <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
@@ -289,7 +293,7 @@ graph LR
 ```
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=moonlight" width="70%" alt="Dev Quote" />
 </div>
 
 <div align="center">
