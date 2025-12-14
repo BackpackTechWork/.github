@@ -12,7 +12,7 @@
   <h3>🌐 Connect With Us</h3>
   
 <p align="center">
-  <a href="https://backpacktechworks.my.canva.site" target="_blank">
+  <a href="https://backpack2u.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" height="35"/>
   </a>
   &nbsp;&nbsp;
